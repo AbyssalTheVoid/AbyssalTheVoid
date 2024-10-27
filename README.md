@@ -5,7 +5,7 @@
 /
 /
 
-## **AbyssalTheVoid has joined the game.**
+**AbyssalTheVoid has joined the game.**
 
 /
 /
