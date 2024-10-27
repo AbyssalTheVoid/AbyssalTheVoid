@@ -10,9 +10,11 @@ Greeting! I'm AbyssalTheVoid, you can call me "Void" for short. I'm just a guy w
 
 
 
-About myself:
-I enjoy listening to Music
-My favorite things to
+## My hobbies
+---Music---
+---drawing---
+**Playing Game**
+
 
 
 
