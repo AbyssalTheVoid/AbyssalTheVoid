@@ -29,7 +29,7 @@ These help me calm down from a stressful day and it is what I believe make life 
 
 ## Level 1 
 ---Currently---
-As of now, I'm grinding experiences in the field of Python, C++, Blender, Roblox Studio and Unreal Engine.
+As of now, I'm **grinding** experiences in the field of Python, C++, Blender, Roblox Studio and Unreal Engine.
 
 ## [---Project---]
 -Working on small projects on Roblox studio platform.
