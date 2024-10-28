@@ -57,13 +57,13 @@ I want to create a game that have a *selling point* where the players can play t
 
 
 
-## My Motto
+## My Motto🎯
 
 "Do or do not. There is no try"
 -Yoda 🗣🔥🔥
 
 
-## Fun Facts
+## Fun Facts😄
 
 -I always make backup plans for myself because I'm a clumsy person.
 
