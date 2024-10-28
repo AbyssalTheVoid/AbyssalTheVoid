@@ -57,21 +57,26 @@ I want to create a game that have a *selling point* where the players can play t
 
 
 
-## Uniqueness
+## My Motto
 
-
+"Do or do not. There is no try"
+-Yoda
 
 
 ## Fun Facts
 
+-I always make backup plans for myself because I'm a clumsy person.
+
+-I got my name "Abyss or Abyssal" from an old Undertale Fan character named "Abyss Sans"
+
+-I'm not sure if this a fun fact or not, but I really like drinking water.
+
+-I have a high score of 1000 at Pectoralis Major Challenge (Ring Press) in Ring Fit Adventure.
+
+-I twisted my right ankle 9 times straight, broke my right leg and have a glass stuck into my foot when I was a child, and this happened right after each one....
 
 
-
-
-
-
-
-*" "*
+*""*
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
