@@ -75,6 +75,8 @@ I want to create a game that have a *selling point* where the players can play t
 
 -I twisted my right ankle 9 times straight, broke my right leg and have a glass stuck into my foot when I was a child, and this happened right after each one....
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 *"To be the best of yourself is to be with yourself."*
 
