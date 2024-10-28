@@ -6,22 +6,22 @@
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-Greeting! I'm AbyssalTheVoid, you can call me "Void" for short. I'm just a guy wandering my way into the world of games and dreaming one day to beceom the **King** of game creation...
+Greeting! I'm AbyssalTheVoid, you can call me "Void" for short. I'm just a guy wandering my way into the world of games and dreaming one day to beceom the **King** of game creation...👑
 
 
 
 ## My hobbies
----Music---
+---Music🎤🎧---
 
----drawing---
+---drawing🖼✏️---
 
----**Playing Game**---
-
-
+---**Playing Game🎮🎧**---
 
 
 
-These help me calm down from a stressful day and it is what I believe make life more **Enjoyable**.
+
+
+These help me calm down from a stressful day and it is what I believe make life more **Enjoyable💟**.
 
 
 
@@ -29,14 +29,14 @@ These help me calm down from a stressful day and it is what I believe make life 
 
 ## Level 1 
 ---Currently---
-As of now, I'm **grinding** experiences in the field of Python, C++, Blender, Roblox Studio and Unreal Engine.
+As of now, I'm **grinding🧩** experiences in the field of Python, C++, Blender, Roblox Studio and Unreal Engine.
 
 ## [---Project---]
 -Working on small projects on Roblox studio platform.
 
 
 
-## Favorite Game Inspirations
+## Favorite Game Inspirations💖
 
 **Undertale**
 
@@ -49,7 +49,7 @@ As of now, I'm **grinding** experiences in the field of Python, C++, Blender, Ro
 - **And most importantly** *The Story* of the game
 
 
-## Dream Project
+## Dream Project💭 🗣🔥🔥
 
 I want to create a game that have a *selling point* where the players can play the game however they want, to have control over the narrative of the game base on their *choices* and *consequences*.
 
