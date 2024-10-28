@@ -49,7 +49,7 @@ As of now, I'm **grinding🧩** experiences in the field of Python, C++, Blender
 - **And most importantly** *The Story* of the game
 
 
-## Dream Project💭 🗣🔥🔥
+## Dream Project💭 
 
 I want to create a game that have a *selling point* where the players can play the game however they want, to have control over the narrative of the game base on their *choices* and *consequences*.
 
@@ -60,7 +60,7 @@ I want to create a game that have a *selling point* where the players can play t
 ## My Motto
 
 "Do or do not. There is no try"
--Yoda
+-Yoda 🗣🔥🔥
 
 
 ## Fun Facts
@@ -83,6 +83,6 @@ I want to create a game that have a *selling point* where the players can play t
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-And that is why I'm applying to CMKL University AiCE Game Engineer B.Eng program, because I truly believe that they will be able to provide me the requirements needed for me to upgrade myself and move on the the next level.
+And that is why I'm applying to CMKL University AiCE Game Engineer B.Eng program, because I truly believe that they will be able to provide me the requirements necessary for me to evolve to the **Next Tier**!
 
 
