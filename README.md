@@ -36,19 +36,26 @@ As of now, I'm **grinding** experiences in the field of Python, C++, Blender, Ro
 
 
 
+## Favorite Game Inspirations
+
+**Undertale**
+
+  *Undertale* Sparks the light of interests in me:
+
+- Singing
+
+- Drawing
+
+- **And most importantly** *The Story* of the game
 
 
+## Dream Project
+
+I want to create a game that have a *selling point* where the players can play the game however they want, to have control over the narrative of the game base on their *choices* and *consequences*.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 And that is why I'm applying to CMKL University AiCE Game Engineer B.Eng program, because I truly believe that they will be able to provide me the requirements needed for me to upgrade myself and move on the the next level.
 
-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
